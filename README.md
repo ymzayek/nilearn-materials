@@ -1,1 +1,1 @@
-# nilearn-materials
+Nilearn-related materials (e.g. presentations, )
